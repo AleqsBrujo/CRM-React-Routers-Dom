@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "ORACLE"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "MS AZURE"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "STARLINK"
+    },
+    {
+      "nombre": "AleqsBrujo",
+      "empresa": "Witcher Inc.",
+      "email": "AleqsB@brujo.com",
+      "telefono": "359786541",
+      "notas": "El mejor mago",
+      "id": 6
+    }
+  ]
+}
